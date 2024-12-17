@@ -1,0 +1,7 @@
+client ka liye:
+phele humne server side banai phir humne client ko vite sai banaya npm create vite@latest
+uskay baad humne react aur javascript choose kiya
+phir cd ker ka project vite ka naam diya 
+phir npm i kiya uskay baad npm run dev kerna aur phir vite hogaya
+use npm i @reduxjs/to 52 has been terminated.olkit react-redux axios react-router-dom 
+then uses https://ui.shadcn.com/docs/installation/vite for install tailwind css and etc
